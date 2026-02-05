@@ -4,12 +4,6 @@ An interactive R Shiny web application for exploring and analyzing a dataset on 
 
 ---
 
-## 🌐 Live App
-
-[**Click here to launch the Shiny app**](https://aleksandrak67.shinyapps.io/projektr/)
-
----
-
 ## About This Project
 
 This project was created as part of a university course **Programowanie w R (N24)**.  
@@ -121,4 +115,4 @@ Aleksandra Konopelska – 2025
 Created for the university course **Programowanie w R (N24)**  
 
 **Data Source:**  
-➡️ [Global Plastic Waste 2023 – A Country Wise Analysis (Kaggle)](https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis)
+[Global Plastic Waste 2023 – A Country Wise Analysis (Kaggle)](https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis)
