@@ -61,23 +61,6 @@ The deployed Shiny app allows you to:
 
 ---
 
-## Instructions for Using the Live App
-
-1. **(For local use)** First, download the CSV dataset from this repository:  
-   - `daneR/Plastic Waste Around the World.csv`  
-2. Click the **Live App** link above to open the deployed version, or run locally after downloading the data.
-3. Wait for the app to load.  
-4. Use the **sidebar** or **filters** to select:
-   - Country or region
-   - Indicator (e.g., waste per capita, recycling rate)
-5. View:
-   - Updated plots
-   - Data tables
-   - Summaries based on your selection
-6. Try different combinations to explore trends and comparisons.
-
----
-
 ## Files in This Repository
 
 - `ProjektR/ui.R` – User interface of the Shiny app
